@@ -4,9 +4,15 @@
 - H. van Seijen, __Effective multi-step temporal-difference learning for non-linear function approximation__ (2016)
 - K. De Asis et al., __Multi-step reinforcement learning: a unifying algorithm__ (2017)
 - A. Mahmood, __Incremental off-policy reinforcement learning algorithms__ (2017, Ph.D. thesis)
+- R. Sutton and A. Barto, __Reinforcement learning: an introduction (2nd ed.)__ (2017, textbook)
 
 ### Deep reinforcement learning
 - L. Lin, __Reinforcement learning for robots using neural networks__ (1993, Ph.D. thesis)
+- V. Mnih et al., __Human-level control through deep reinforcement learning__ (2015)
+- V. Mnih et al., __Playing atari with deep reinforcement learning__ (2013)
+
+### Inverse RL
+- C. Finn et al., __A connection between generative adversarial networks, inverse reinforcement learning, and energy-based models__ (2016)
 
 ### Imitation learning
 - S. Ross et al., __A reduction of imitation learning and structured prediction to no-regret online learning__ (2011, DAGGER)
@@ -20,6 +26,8 @@
 - T. Lillicrap et al., __Continuous control with deep reinforcement learning__ (2016, DDPG)
 - R. Islam et al., __Reproducibility of benchmarked deep reinforcement learning tasks for continuous control__ (2017)
 - N. Heess et al., __Learning continuous control policies by stochastic value gradients__ (2015, SVG)
+- V. Mnih et al., __Asynchronous methods for deep reinforcement learning__ (2016, A3C)
+
 
 ### Improving exploration
 - I. Osband et al., __Deep exploration via bootstrapped DQN__ (2016)
@@ -60,6 +68,9 @@
 ### Generative models
 - C. Vondrick et al., __Generating videos with scene dynamics__ (2016)
 - I. Goodfellow, __NIPS 2016 tutorial: Generative adversarial networks__ (2017)
+- D. Kingma and M. Welling, __Auto-encoding variational bayes__ (2014 VAE)
+- I. Goodfellow et al., __Generative adversarial nets__ (2014, GAN)
+- A. Radford and L. Metz et al., __Unsupervised representational learning with deep convolutional generative adversarial networks__ (2016, DCGAN)
 
 ### Visual domains
 - M. Mathieu et al., __Deep multi-scale video prediction beyond mean square error__ (2016)
@@ -67,3 +78,22 @@
 - M. Ranzato et al., __Video (language) modeling: A baseline for generative models of natural videos__ (2016)
 - W. Lotter et al., __Deep predictive coding networks for video prediction and unsupervised learning__ (2017)
 - G. Huang et al., __Densely connected convolutional networks__ (2017, DenseNet)
+- K. Simonyan and A. Zisserman, __Very deep convolutional networks for large-scale image recognition__ (2015, VGGnet)
+- M. Lin et al., __Network in network__ (2014)
+- A. Krizhevsky et al., __ImageNet classification with deep convolutional neural networks__ (2012)
+- K. He et al., __Deep residual learning for image recognition__ (2015, ResNet)
+- C. Szegedy et al., __Going deeper with convolutions__ (2015, GoogLeNet)
+- G. Masi et al., __Pansharpening by convolutional neural networks__ (2016)
+- C. Dong et al., __Image super-resolution using deep convolutional networks__ (2015)
+- A. Karpathy et al., __Large-scale video classification with convolutional neural networks__ (2014)
+- M. D. Zeiler and R. Fergus, __Visualizing and understanding convolutional networks__ (2013, ZFNet)
+
+## NLP
+- I. Sutskever et al., __Sequence to sequence learning with neural networks__ (2014, Seq2seq)
+- J. Pennington et al., __GloVe: Global vectors for word representation__ (2014)
+- Y. Kim, __Convolutional neural networks for sentence classification__ (2014)
+
+
+
+
+
